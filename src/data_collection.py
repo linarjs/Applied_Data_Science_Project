@@ -45,3 +45,4 @@ def getCoreData(data):
             Reused.append(core['reused'])
             Legs.append(core['legs'])
             LandingPad.append(core['landpad'])
+
