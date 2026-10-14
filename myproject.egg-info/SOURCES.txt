@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+myproject.egg-info/PKG-INFO
+myproject.egg-info/SOURCES.txt
+myproject.egg-info/dependency_links.txt
+myproject.egg-info/top_level.txt
+src/__init__.py
+src/data_collection.py
+utils/__init__.py
+utils/paths.py
